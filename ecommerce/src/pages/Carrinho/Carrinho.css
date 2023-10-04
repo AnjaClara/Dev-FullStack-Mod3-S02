@@ -1,0 +1,19 @@
+.itemCarrinho{
+  margin: 25px;
+  background-color: white;
+  border: solid 1px white;
+  float: right;
+  align-items: center;
+  width: 300px;
+  height: 300px;
+}
+
+.itemCarrinho img{
+  object-fit: contain;
+  width: 200px;
+  height: 200px;
+}
+
+.continuar{
+  margin: 10px;
+}

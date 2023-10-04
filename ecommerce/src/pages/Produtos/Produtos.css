@@ -1,0 +1,40 @@
+.header {
+  margin: 15px 30px;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 100%;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.pesquisa {
+  text-align: center;
+  margin: 15px 30px;
+  flex-wrap: wrap;
+  max-width: 100%;
+  justify-content: center;
+}
+
+.cardProduto {
+  margin: 25px;
+  background-color: white;
+  border: solid 1px white;
+  float: right;
+  align-items: center;
+  width: 300px;
+  height: 300px;
+}
+
+.cardProduto img {
+  object-fit: contain;
+  width: 200px;
+  height: 200px;
+}
+
+button{
+  color: rgb(154, 154, 192);
+  background-color: rgb(247, 241, 253) !important;
+}
