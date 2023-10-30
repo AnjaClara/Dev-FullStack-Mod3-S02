@@ -8,6 +8,7 @@ function Checkout({carrinho}) {
 
   useEffect(() => {
     let sum = 0;
+
     for (let i = 0; i < carrinho.length; i += 1) {
       sum += carrinho[i].price;
     }
@@ -54,7 +55,7 @@ function Checkout({carrinho}) {
         <div className="checkout-compra">
           <p>
             Total à pagar:
-            {' '}
+            {' $ '}
             {valorTotal}
           </p>
           <Button to="/sucesso" text="Finalizar Compra" />

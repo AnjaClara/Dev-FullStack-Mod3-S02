@@ -20,7 +20,7 @@ h1 {
 
 .cardProduto {
   margin: 25px;
-  background-color: white;
+  /* background-color: white; */
   border: solid 1px white;
   float: right;
   align-items: center;

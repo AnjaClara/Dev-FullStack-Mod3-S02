@@ -30,7 +30,7 @@ function Carrinho({ carrinho }) {
                 <img alt={e.name} src={e.images} />
                 <div>
                   <p>{e.name}</p>
-                  <p>{e.price}</p>
+                  <p>$ {e.price}</p>
                 </div>
               </div>
             ))}

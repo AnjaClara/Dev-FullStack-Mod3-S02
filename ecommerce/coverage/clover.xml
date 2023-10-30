@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1698631076499" clover="3.2.0">
+  <project timestamp="1698631076499" name="All files">
+    <metrics statements="41" coveredstatements="30" conditionals="7" coveredconditionals="3" methods="19" coveredmethods="12" elements="67" coveredelements="45" complexity="0" loc="41" ncloc="41" packages="7" files="7" classes="7"/>
+    <package name="components">
+      <metrics statements="1" coveredstatements="1" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="Button.jsx" path="/home/ana/Documentos/Dev-Full-Stack/modulo3/Semana1/EXS01/ecommerce/src/components/Button.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Navbar">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Navbar.jsx" path="/home/ana/Documentos/Dev-Full-Stack/modulo3/Semana1/EXS01/ecommerce/src/components/Navbar/Navbar.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="MainPage.jsx" path="/home/ana/Documentos/Dev-Full-Stack/modulo3/Semana1/EXS01/ecommerce/src/pages/MainPage.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.404">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="404.jsx" path="/home/ana/Documentos/Dev-Full-Stack/modulo3/Semana1/EXS01/ecommerce/src/pages/404/404.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.Carrinho">
+      <metrics statements="11" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="2"/>
+      <file name="Carrinho.jsx" path="/home/ana/Documentos/Dev-Full-Stack/modulo3/Semana1/EXS01/ecommerce/src/pages/Carrinho/Carrinho.jsx">
+        <metrics statements="11" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="2"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="10" count="6" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="18" count="6" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="22" count="6" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.Checkout">
+      <metrics statements="10" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="2"/>
+      <file name="Checkout.jsx" path="/home/ana/Documentos/Dev-Full-Stack/modulo3/Semana1/EXS01/ecommerce/src/pages/Checkout/Checkout.jsx">
+        <metrics statements="10" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="2"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.Produtos">
+      <metrics statements="16" coveredstatements="10" conditionals="2" coveredconditionals="0" methods="8" coveredmethods="4"/>
+      <file name="Produtos.jsx" path="/home/ana/Documentos/Dev-Full-Stack/modulo3/Semana1/EXS01/ecommerce/src/pages/Produtos/Produtos.jsx">
+        <metrics statements="16" coveredstatements="10" conditionals="2" coveredconditionals="0" methods="8" coveredmethods="4"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="27" count="4" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="29" count="18" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="34" count="4" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="53" count="36" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

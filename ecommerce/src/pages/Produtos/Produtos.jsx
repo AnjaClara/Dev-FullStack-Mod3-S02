@@ -51,9 +51,9 @@ function Produtos(){
       </div>
       {produtos.map((e) => (
         <div className="cardProduto" key={e.id}>
-          <img alt={e.description} src={e.images} />
+          <img data-testid="produtos" alt={e.description} src={e.images} />
           <p>{e.name}</p>
-          <p>{e.price}</p>
+          <p>$ {e.price}</p>
           <button onClick={() => adicionarAoCarrinho(e)}>Adicionar ao Carrinho</button>
         </div>
       ))}
